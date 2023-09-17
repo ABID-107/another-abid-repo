@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: rgb(31, 11, 104);
+    border: 5px black solid;
+    margin: 2px 100px 2px 100px; 
+    border-radius: 20px;
+
+}
+p{
+    text-align: center;
+}
+h2{
+    text-underline-position: below;
+    color: rgb(31, 11, 104);
+    
+    margin: 2px 100px 2px 100px; 
+     
+}
+.lis{
+    margin-left: 30px;
+}
